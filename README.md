@@ -1,6 +1,8 @@
 # OreSpawn
 Minecraft library mod that provides better control over the spawning of ores in Minecraft.
 
+**This project has moved to https://github.com/MinecraftModDevelopment/OreSpawn**
+
 ## How it works
 Ore Spawn parses all of the .json files found in **config/orespawn** and adds ore generators to the game based on those files. The JSON structure looks like this:
 ```javascript
